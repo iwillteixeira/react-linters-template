@@ -1,3 +1,80 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Project
+
+Main goal of this milestone was working with React components and events creating SPA.
+
+
+![screenshot](./screenshot.png)
+
+## Built With
+
+- HTML
+- SASS
+- JS
+- React
+
+### Live version
+
+There is no current live version of this app.
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps:
+
+1- Click on the top right green code button.
+2- On the dropdown menu, choose download zip button.
+3- After download, extract the zip file and you have the project running on your machine.
+4- You can also clone the project using git clone command.
+5- After downloading or cloning the project use the command git i to install all Node packages.
+
+### Prerequisites
+
+To contribute with this project you must instal the follow items:
+
+- NODE
+- NPM
+- SASS
+- REACT
+
+### Setup
+
+Dowload NPM and NODE
+
+### Install
+
+Install the packages globally and after that:
+
+`npm install`
+
+### Run tests
+
+- `npm run fixlinters` fix and look up for errors
+- `npm run test` jest test
+
+## Authors
+
+👤 **Will Teixeira**
+
+- GitHub: [@githubhandle](https://github.com/iwillteixeira)
+- Twitter: [@twitterhandle](https://twitter.com/iwillteixeira)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/juscelinodev/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.com)
+- [FreeCodeCamp](https://www.freecodecamp.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,11 +116,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
